@@ -8,4 +8,4 @@ Input taken as:
                 1000
                 True
 
-This will open the doors 100 times and always switch
+This will open the doors 1000 times and always switch
