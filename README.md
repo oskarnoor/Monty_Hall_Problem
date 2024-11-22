@@ -5,7 +5,7 @@ It will output 2 numbers, first one the amount of times you lost and second the 
 
 Input taken as:
 
-                1000
-                True
+    1000
+    True
 
 This will open the doors 1000 times and always switch
